@@ -81,8 +81,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgments
 - Thanks to GroqAPI for providing the AI model APIs.
-- Special thanks to all contributors who participated in this project.
-```
-
-### Customizing Your README
-Make sure to replace placeholders and add any additional details specific to your project. This includes updating links, specific commands, additional sections on how to contribute, report issues, or detailed explanations of more complex project features.
